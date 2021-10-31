@@ -1,2 +1,2 @@
 # Dotfiles
-configuration files for 
+configuration files for Qtile.
